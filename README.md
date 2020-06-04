@@ -1,4 +1,4 @@
-http://34.64.254.254:5000/
+http://ec2-13-209-50-235.ap-northeast-2.compute.amazonaws.com:8000/
 
 개발환경 : windows10, Visaul Studio Code
 
