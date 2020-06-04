@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'e@1o2xyjclrl=^$vqiz+a)=4w5!$et@herm*=)1dg@f)uk*o6)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     "ec2-13-209-50-235.ap-northeast-2.compute.amazonaws.com"
